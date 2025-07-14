@@ -90,7 +90,7 @@ const Hero = () => {
               {/* Profile Image */}
               <div className="relative w-80 h-80 rounded-full overflow-hidden border-4 border-red-500 transform hover:scale-105 transition-transform duration-300">
                 <img
-                  src="https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400"
+                  src="src/assets/IMG_6083 copy.JPG"
                   alt="Jayesh Nikam"
                   className="w-full h-full object-cover"
                 />
