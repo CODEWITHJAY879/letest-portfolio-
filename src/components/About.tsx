@@ -26,7 +26,7 @@ const About = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-red-500 to-red-700 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-300"></div>
               <div className="relative w-80 h-96 rounded-lg overflow-hidden bg-black border border-red-500/20">
                 <img
-                  src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=400"
+                  src="src/assets/IMG_6083.JPG"
                   alt="Jayesh Nikam"
                   className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
                 />
